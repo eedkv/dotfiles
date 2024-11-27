@@ -3,6 +3,8 @@
     <h3><i> like gruvbox but ytta </i></h3>
 </div>
 
+# Previews
+
 ![1](previews/1.png)
 
 ![2](previews/2.png)
