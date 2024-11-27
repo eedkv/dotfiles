@@ -9,7 +9,7 @@
 
 ![3](previews/3.png)
 
-![4](previewss/4.png)
+![4](previews/4.png)
 
 ## Required Packages
 
