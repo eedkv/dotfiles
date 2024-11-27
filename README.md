@@ -20,17 +20,16 @@
 
 ![4](previews/4.png)
 
-## required packages
+## Details
 
-- Hyprland, Hyprpaper, Hyprpicker
-- alacritty
-- Rofi `rofi-wayland`
-- Dunst
-- Waybar
-- Wlogout
-- nwg-look
-- brave-bin
-- polkit-gnome 
-- neovim
-- zsh
-- tmux
+- OS: **[Arch Linux](https://github.com/archlinux)**
+- DE: **[Hyprland](https://github.com/hyprwm/Hyprland)**
+- Terminal: **[Alacritty](https://github.com/alacritty)**
+- Shell: **[zsh](https://github.com/zsh-users/zsh)**
+- Bar: **[waybar](https://github.com/Alexays/Waybar)**
+- App Launcher: **[Rofi](https://github.com/davatorium/rofi)**
+- Editor: **[Neovim](https://github.com/neovim/neovim)**
+
+## Installing
+
+ Soon..
