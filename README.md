@@ -2,7 +2,7 @@
 # edkv's Hyprland 💧
 ![](previews/neofetch.png)
 
-I hope you enjoy it, and feel free to use this rice!
+Gruvbox like but ytta!
 
 For more details or issues, please visit the repository’s [issues page](https://github.com/eedkv/dotfiles/issues).
 
