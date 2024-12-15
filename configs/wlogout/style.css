@@ -1,0 +1,58 @@
+* {
+  font-family: JetBrainsMonoNerdFontMono;
+  font-size: 20px;
+  transition-property: background-color;
+  transition-duration: 0.7s;
+}
+
+window {
+  background-color: rgba(29, 32, 33, 0.68);
+  border-radius: 8px;
+}
+
+button {
+  color: #ebdbb2;
+  background-color: #282828;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 8px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 15%;
+  margin: 15px;
+}
+
+button:active,
+button:hover {
+  background-color: #ebdbb2;
+  color: #282828;
+}
+
+button:focus {
+  background-color: #ebdbb2;
+  color: #282828;
+}
+
+#lock {
+    background-image: url("/home/edkv/.config/wlogout/icons/lock.svg");
+}
+
+#logout {
+    background-image: url("/home/edkv/.config/wlogout/icons/logout.svg");
+}
+
+#suspend {
+    background-image: url("/home/edkv/.config/wlogout/icons/suspend.svg");
+}
+
+#hibernate {
+    background-image: url("/home/edkv/.config/wlogout/icons/hibernate.svg");
+}
+
+#shutdown {
+    background-image: url("/home/edkv/.config/wlogout/icons/shutdown.svg");
+}
+
+#reboot {
+    background-image: url("/home/edkv/.config/wlogout/icons/reboot.svg");
+}
